@@ -187,7 +187,7 @@ Frontend runs on: `http://localhost:5173`
 
 ---
 
-## 🏆 Resume Talking Points
+## 🏆 KEY POINTS
 
 1. **MVC Architecture**: Clean separation of Models, Controllers, Routes, and Middleware for maintainability
 2. **JWT + RBAC**: Stateless authentication with role-based access, protecting admin endpoints
